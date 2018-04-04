@@ -7,3 +7,5 @@
 * 3.使用字体
    StoryBoard 中使用的话，只需要设置控件的 Font 属性为，选择 Custom，然后再从 Family 中选择需要的字体即可。
    代码中使用，[UIFont fontWithName:@"字体名称" size:17] //fontWithName是字体名称，非字体文件名
+   
+   ![CustomFont](https://github.com/xiaodai/CustomFontDemo/blob/master/CustomFont.png)
