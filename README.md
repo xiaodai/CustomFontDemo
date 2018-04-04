@@ -1,5 +1,6 @@
 # CustomFontDemo
 自定义字体Demo
+
 自定义字体都是通过导入类型为 ttf 或 ttc 的字体文件来实现，具体步骤如下
 * 1.添加字体文件到工程，像添加图片资源一样将字体文件拖入工程
 * 2.在 Info.plist 文件中添加 Fonts provided by application 项,值为字体文件名
